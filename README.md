@@ -1,5 +1,5 @@
 # Brain Tumor MRI Classification
 
-Comparative Study: ResNet50 Feature Extraction + SVM vs End-to-End
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 **Course:** CAI3105/CS460 - Deep Learning
